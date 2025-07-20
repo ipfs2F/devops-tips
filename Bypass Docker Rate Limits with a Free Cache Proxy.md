@@ -24,7 +24,7 @@ You just need to add it as a mirror in your Docker daemon's configuration file.
 
     ```json
     {
-      "registry-mirrors": ["[https://public-mirror.ratelimitshield.io](https://public-mirror.ratelimitshield.io)"]
+      "registry-mirrors": ["https://public-mirror.ratelimitshield.io"]
     }
     ```
 
